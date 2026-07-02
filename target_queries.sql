@@ -50,6 +50,6 @@ LIMIT 1;
 
 -- Question 6: What's the average price for each category?
 SELECT category, AVG(price) AS avg_price
-FROM superstore
+FROM target
 GROUP BY category;
 -- Appliances: $126.32, Electronics: $179.73, Furnishings: $200.74, Kitchen Supplies: $58.61.
