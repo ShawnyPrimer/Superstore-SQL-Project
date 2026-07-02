@@ -12,6 +12,7 @@ questions about the data, such as:
 - Which items are the cheapest and most expensive?
 - What's the average price overall, and within a specific category?
 - Which item is rated highest/lowest by customers?
+- How many items fall into a given category (e.g., Electronics)?
 - How much stock value does a given category hold?
 - How does average price compare across categories?
 
